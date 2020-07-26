@@ -1,0 +1,20 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test1": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "unlimit1984",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "moment": "^1.7.2",
+    "underscore": "^1.8.3"
+  }
+}
