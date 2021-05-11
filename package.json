@@ -11,7 +11,7 @@
   "author": "unlimit1984",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "moment": "^1.7.2",
