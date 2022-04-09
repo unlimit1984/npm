@@ -14,7 +14,7 @@
     "lodash": "^3.10.1"
   },
   "devDependencies": {
-    "moment": "^1.7.2",
+    "moment": "^2.29.2",
     "underscore": "^1.8.3"
   }
 }
